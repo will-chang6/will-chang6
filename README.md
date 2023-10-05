@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+# Welcome to Will Chang's Portfolio 
+
+Connect with me: [Portfolio](#) | [LinkedIn](#) | [Twitter](#) | [Email](mailto:william.chaang@gmail.com)
+
+🔭 I’m currently working on **Daily Dharma App**, a mindfulness and mental health webapp. 
+
+👯 I’m looking to collaborate on any full-stack projects that you are passionate about. Let's connect! 
+
+💬 Ask me about my love for 
+
+📫 **How to reach me:** william.chaang@gmail.com
+
+😄 **Pronouns:** He/Him/His
+
+⚡ **Fun fact:** I grew up in Taipei and have always straddled the American and Taiwanese cultures. I live for experiencing local foods, immersing myself in nature, and hearing people's stories.  
+
+## About Me
+
+Hello! I'm Will Chang, a passionate software engineer with a love for React and a knack for problem-solving. Currently, I'm immersed in the exciting world of fashion technology, working on Delphi Clothing.
+
+
 <!--
 **will-chang6/will-chang6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
