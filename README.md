@@ -1,12 +1,16 @@
-### Hi there 👋 Welcome to Will Chang's Portfolio!
+### Hi there 👋 Welcome to Will Chang's GitHub!
 
-Connect with me: [Portfolio](#) | [LinkedIn](#) | [Twitter](#) | [Email](mailto:william.chaang@gmail.com)
+<p align="left">
+<a href='https://www.linkedin.com/in/will-chang-co/' target='blank'><img alt="will_chang_linkedin" src="https://img.shields.io/badge/LinkedIn--blue"></a>
+<a href="https://medium.com/@Pythe" target="blank"><img alt="will_chang_blog" src="https://img.shields.io/badge/Blog--yellow"></a>
+<a href='mailto:william.chaang@gmail.com'><img alt="will_chang_email" src="https://img.shields.io/badge/Email--red"></a>
+</p>
 
-🔭 I’m currently working on **Daily Dharma App**, a mindfulness and mental health webapp. 
+🔭 I’m currently working on <a href='https://github.com/will-chang6/daily-dharma-app'> **Daily Dharma App** </a>, a mental health and journaling webapp. 
 
-👯 I’m looking to collaborate on any full-stack projects that you are passionate about. Let's connect! 
+👯 I’m looking to collaborate on any full-stack projects that you are passionate about. Let's get problem solving! 
 
-💬 Ask me about my love for mindfulness-based practices, 
+💬 Ask me about my love for Javascript and mindfulness practices for wellness and sports performance.  
 
 📫 **How to reach me:** william.chaang@gmail.com
 
