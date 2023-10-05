@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Welcome to Will Chang's Portfolio 
+### Hi there 👋 Welcome to Will Chang's Portfolio!
 
 Connect with me: [Portfolio](#) | [LinkedIn](#) | [Twitter](#) | [Email](mailto:william.chaang@gmail.com)
 
