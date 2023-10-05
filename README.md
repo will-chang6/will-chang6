@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to Will Chang's GitHub!
 
 <p align="left">
-<a href='https://www.linkedin.com/in/will-chang-co/' target='blank'><img alt="will_chang_linkedin" src="https://img.shields.io/badge/LinkedIn--blue"></a>
-<a href="https://medium.com/@Pythe" target="blank"><img alt="will_chang_blog" src="https://img.shields.io/badge/Blog--yellow"></a>
+<a href='https://www.linkedin.com/in/will-chang-co/' target='_blank'><img alt="will_chang_linkedin" src="https://img.shields.io/badge/LinkedIn--blue"></a>
+<a href="https://medium.com/@Pythe" target="_blank"><img alt="will_chang_blog" src="https://img.shields.io/badge/Blog--yellow"></a>
 <a href='mailto:william.chaang@gmail.com'><img alt="will_chang_email" src="https://img.shields.io/badge/Email--red"></a>
 </p>
 
