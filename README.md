@@ -12,7 +12,7 @@
 
 💬 Ask me about my love for Javascript and mindfulness practices for wellness and sports performance.  
 
-📫 **How to reach me:** william.chaang@gmail.com
+📫 **How to reach me:** william.ren.chang@gmail.com
 
 😄 **Pronouns:** He/Him/His
 
