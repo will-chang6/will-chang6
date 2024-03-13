@@ -6,9 +6,7 @@
 <a href='mailto:william.chaang@gmail.com'><img alt="will_chang_email" src="https://img.shields.io/badge/Email--red"></a>
 </p>
 
-🔭 I’m currently working on <a href='https://github.com/will-chang6/daily-dharma-app'> **Daily Dharma App** </a>, a mental health and journaling webapp. 
-
-👯 I’m looking to collaborate on any full-stack projects that you are passionate about. Let's get problem solving! 
+👯 I’m looking to collaborate on any full-stack projects that you are passionate about. 
 
 💬 Ask me about my love for Javascript and mindfulness practices for wellness and sports performance.  
 
